@@ -1,4 +1,6 @@
 # Health Management System
+# Helps in measuring health of the users
+
 def getdate():
     import datetime
     return datetime.datetime.now()
