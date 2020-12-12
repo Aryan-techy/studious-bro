@@ -1,11 +1,13 @@
 # Health Management System
+# Helps in measuring health of the users
+
 def getdate():
     import datetime
     return datetime.datetime.now()
 
 
 time = str(getdate())
-print("Welcome to the 'Health Management System' developed by Aryan Moholkar:\n\n")
+print("Welcome to the 'Health Management System' developed by Sourav Saini:\n\n")
 print("Who are you?")
 print("1) Press 1 if you are Harry")
 print("2) Press 2 if you are Rohan")
